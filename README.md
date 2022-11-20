@@ -3,4 +3,5 @@
 Olá! Bem vindo ao meu livro de receitas de família! :heart:
 
 - Bolo Amanteigado
-- Bolo de Cenoura
+- Bolo de Cenoura 
+- Bolo de Chocolate
